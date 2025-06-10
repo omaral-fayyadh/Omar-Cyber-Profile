@@ -1,6 +1,6 @@
 # Omar-Cyber-Profile
 This is a profile page to keep track of all the projects I work on while growing in the field of cybersecurity
-<h1>Hi, I'm Omar! <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/omaralfayyadh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@omaral-fayyadh4307">YouTuber</a></h1>
+<h1>Hi, I'm Omar! <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/omaralfayyadh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@omaral-fayyadh4307">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
