@@ -5,7 +5,7 @@ This is a profile page to keep track of all the projects I work on while growing
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Practiving the deployment of a T-POT honeypot</b>
-  - [Deplyoing T-POT via MS Azure](https://studio.youtube.com/video/d71xenzgNo0/edit)
+  - [Deplyoing T-POT via MS Azure](https://youtu.be/d71xenzgNo0)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
