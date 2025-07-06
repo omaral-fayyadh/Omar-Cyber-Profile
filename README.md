@@ -2,10 +2,10 @@
 This is a profile page to keep track of all the projects I work on while growing in the field of cybersecurity
 <h1>Hi, I'm Omar! <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/omaralfayyadh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@omaral-fayyadh4307"> and a YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Practiving the deployment of a T-POT honeypot</b>
+  - [Deplyoing T-POT via MS Azure](https://studio.youtube.com/video/d71xenzgNo0/edit)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
