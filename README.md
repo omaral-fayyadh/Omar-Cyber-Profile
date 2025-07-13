@@ -1,6 +1,6 @@
  <h1>Hi, I'm Omar!<br/>
   <span style="color: #1a73e8;"> A Cybersecurity Professional</span>,
-  <span style="color: #1a73e8;">and Language Enthusiast</span> (English • Arabic • 日本語)
+  <span style="color: #1a73e8;">and Language Enthusiast</span> (English • العربية • 日本語)
 </h1>
 
 
