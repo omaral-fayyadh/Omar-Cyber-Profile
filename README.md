@@ -1,7 +1,8 @@
-  <h1>Hi, I'm Omar!<br/>
-    <a href="https://www.linkedin.com/in/omaralfayyadh/">Cybersecurity Professional</a>,
-    <a href="https://www.youtube.com/@omaral-fayyadh4307">Language Enthusiast (English • Arabic • 日本語)</a>
-  </h1>
+ <h1>Hi, I'm Omar!<br/>
+  <span style="color: #1a73e8;"> A Cybersecurity Professional</span>,
+  <span style="color: #1a73e8;">and Language Enthusiast</span> (English • Arabic • 日本語)
+</h1>
+
 
 <p>
   I’m a cybersecurity professional with a background in telecom engineering, a passion for cloud security, and a love for languages. I hold a Master’s in Information Assurance & Cybersecurity (4.0 GPA) and actively pursue certifications like CCSK, AZ-900, and AZ-500. Whether deploying honeypots, analyzing security events, or participating in CTF challenges, I’m committed to hands-on learning and continuous growth.
