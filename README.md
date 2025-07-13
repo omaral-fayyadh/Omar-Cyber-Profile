@@ -101,9 +101,8 @@
 
 <h2>📳 Connect with Me</h2>
   <p>
-    <a href="https://www.youtube.com/@omaral-fayyadh4307" target="_blank">YouTube</a> |
-    <a href="https://twitter.com/joshmadakor" target="_blank">Twitter</a> |
     <a href="https://linkedin.com/in/omaralfayyadh/" target="_blank">LinkedIn</a> |
-    <a href="https://www.instagram.com/joshmadakor/" target="_blank">Instagram</a>
+    <a href="https://www.youtube.com/@omaral-fayyadh4307" target="_blank">YouTube</a> 
+    
   </p>
 
