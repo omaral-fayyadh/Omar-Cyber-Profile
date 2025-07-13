@@ -1,24 +1,33 @@
 # Omar-Cyber-Profile
 This is a profile page to keep track of all the projects I work on while growing in the field of cybersecurity
-<h1>Hi, I'm Omar! <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/omaralfayyadh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@omaral-fayyadh4307"> and a YouTuber</a></h1>
+<h1>Hi, I'm Omar! <br/><a href="https://github.com/joshmadakor1"></a><a href="https://www.linkedin.com/in/omaralfayyadh/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@omaral-fayyadh4307"> and Language Enthusiast</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Practiving the deployment of a T-POT honeypot</b>
+- <b>Deployment of a T-POT honeypot</b>
   - [Deplyoing T-POT via MS Azure](https://youtu.be/d71xenzgNo0)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>👨‍💻 Certifications:</h2>
+
+
+<h2>🛡️ Certificate of Cloud Security Knowledge (CCSK)</h2>
+<p>
+    I pursued the <strong>CCSK</strong> to solidify my expertise in cloud security principles, including data protection, identity management, and risk assessment across cloud service models (IaaS, PaaS, SaaS). This certification deepened my understanding of the <em>shared responsibility model</em> and security best practices outlined by the <strong>Cloud Security Alliance</strong>, including the <strong>Cloud Controls Matrix (CCM)</strong> and <strong>ENISA</strong> guidelines.
+</p>
+<p>
+  ✅ <a href="https://www.credly.com/badges/9f56e3cc-c396-4e90-872a-8bc2228634d8" target="_blank">Check my badge</a>
+</p>
+
+
+<h2>☁️ Microsoft Certified: Azure Fundamentals (AZ-900)</h2>
+<p>
+  I pursued the <strong>AZ-900</strong> to gain a foundational understanding of Microsoft Azure and core cloud principles. This certification introduced me to key Azure services—including compute, networking, storage, and identity—and helped solidify my grasp of concepts like high availability, scalability, and cost management. It also offered insights into <strong>Azure’s approach to governance, compliance, and security</strong>, including tools like Azure Security Center and Azure Policy.
+</p>
+<p>
+  ✅ <a href="https://www.credly.com/badges/1f99e4e4-63b3-4d67-8502-3123cb0e11e5" target="_blank">Check my badge</a>
+</p>
+
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
