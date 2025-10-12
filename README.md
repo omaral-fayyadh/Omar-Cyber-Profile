@@ -12,11 +12,25 @@
 
   <h2>👨‍💻 Cybersecurity Projects</h2>
   <ul>
-    <li>
-      <strong>Deploying a T-Pot Honeypot on Microsoft Azure</strong><br/>
-      Deployed the open-source <a href="https://github.com/telekom-security/tpotce" target="_blank">T-Pot honeypot framework</a> in a cloud environment to simulate real-world attack surfaces. This project enabled the collection and analysis of threat intelligence by capturing live attacker traffic across multiple honeypot sensors.<br/>
-      🎥 <a href="https://youtu.be/d71xenzgNo0" target="_blank">View project walkthrough</a>
-    </li>
+
+<li>
+    <strong>Building a Cowrie Honeypot with Splunk SIEM Integration</strong><br/>
+    Developed a <strong>Cowrie SSH/Telnet honeypot</strong> on a Linux server hosted in <strong>Microsoft Azure</strong> to capture and analyze brute-force and credential-based attacks.  
+    Configured <strong>Splunk Universal Forwarder</strong> to collect Cowrie logs and visualize attacker behavior in a custom-built dashboard.<br/>
+    The dashboard tracks <em>top attacker IPs, commands executed, login attempts, and session durations</em> — offering actionable insights into malicious activity patterns.<br/>
+    📄 <a href="https://github.com/omaral-fayyadh/Cowrie-Splunk-Honeypot" target="_blank">View project on GitHub</a> | 
+    📘 <a href="https://github.com/omaral-fayyadh/Cowrie-Splunk-Honeypot/blob/main/docs/Cowrie_Splunk_Honeypot_Report_Omar_Alfayyadh.pdf" target="_blank">Read the full report (PDF)</a>
+  </li>
+<br>
+</br>
+
+  <li>
+    <strong>Deploying a T-Pot Honeypot on Microsoft Azure</strong><br/>
+    Deployed the open-source <a href="https://github.com/telekom-security/tpotce" target="_blank">T-Pot honeypot framework</a> in a cloud environment to simulate real-world attack surfaces.  
+    This project enabled the collection and analysis of threat intelligence by capturing live attacker traffic across multiple honeypot sensors.<br/>
+    🎥 <a href="https://youtu.be/d71xenzgNo0" target="_blank">View project walkthrough</a>
+  </li>
+
   </ul>
 
   <h2>👨‍💻 Certifications</h2>
