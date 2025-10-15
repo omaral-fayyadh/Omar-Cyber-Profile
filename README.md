@@ -18,7 +18,7 @@
     Developed a <strong>Cowrie SSH/Telnet honeypot</strong> on a Linux server hosted in <strong>Microsoft Azure</strong> to capture and analyze brute-force and credential-based attacks.  
     Configured <strong>Splunk Universal Forwarder</strong> to collect Cowrie logs and visualize attacker behavior in a custom-built dashboard.<br/>
     The dashboard tracks <em>top attacker IPs, commands executed, login attempts, and session durations</em> — offering actionable insights into malicious activity patterns.<br/>
-    📄 <a href="https://github.com/omaral-fayyadh/Cowrie-Splunk-Honeypot" target="_blank">View project on GitHub</a> 
+    📄 <a href="https://github.com/omaral-fayyadh/Cowrie-Splunk-Honeypot" target="_blank">View the project</a> 
       </li>
 <br>
 </br>
