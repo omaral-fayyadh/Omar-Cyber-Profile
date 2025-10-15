@@ -19,8 +19,7 @@
     Configured <strong>Splunk Universal Forwarder</strong> to collect Cowrie logs and visualize attacker behavior in a custom-built dashboard.<br/>
     The dashboard tracks <em>top attacker IPs, commands executed, login attempts, and session durations</em> — offering actionable insights into malicious activity patterns.<br/>
     📄 <a href="https://github.com/omaral-fayyadh/Cowrie-Splunk-Honeypot" target="_blank">View project on GitHub</a> | 
-    📘 <a href="https://github.com/omaral-fayyadh/Cowrie-Splunk-Honeypot/blob/main/docs/Cowrie_Splunk_Honeypot_Report_Omar_Alfayyadh.pdf" target="_blank">Read the full report (PDF)</a>
-  </li>
+      </li>
 <br>
 </br>
 
