@@ -20,7 +20,8 @@
     Built a custom <strong>Sentinel Workbook Dashboard</strong> visualizing attacker telemetry from the honeypot, highlighting brute-force attempts, repeated IPs, and attack timelines.<br/>
     📄 <a href="https://github.com/omaral-fayyadh/Cowrie-Microsoft-Sentinel-SOAR-Honeypot" target="_blank">View the project</a>
   </li>  
-
+<br>
+</br>
 <li>
     <strong>Building a Cowrie Honeypot with Splunk SIEM Integration</strong><br/>
     Developed a <strong>Cowrie SSH/Telnet honeypot</strong> on a Linux server hosted in <strong>Microsoft Azure</strong> to capture and analyze brute-force and credential-based attacks.  
@@ -30,7 +31,6 @@
       </li>
 <br>
 </br>
-
   <li>
     <strong>Deploying a T-Pot Honeypot on Microsoft Azure</strong><br/>
     Deployed the open-source <a href="https://github.com/telekom-security/tpotce" target="_blank">T-Pot honeypot framework</a> in a cloud environment to simulate real-world attack surfaces.  
