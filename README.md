@@ -12,6 +12,14 @@
 
   <h2>👨‍💻 Cybersecurity Projects</h2>
   <ul>
+   
+<li>
+    <strong>Cowrie Honeypot → Microsoft Sentinel SOAR Automation (End-to-End)</strong><br/>
+    Designed and deployed an <strong>end-to-end cloud security automation pipeline</strong> that integrates a <strong>Cowrie honeypot</strong> hosted on Azure with <strong>Microsoft Sentinel</strong> via <strong>Azure Monitor Agent (AMA)</strong> and <strong>Data Collection Rules (DCR)</strong>.  
+    Implemented a <strong>Logic App SOAR playbook</strong> to automatically enrich incidents by parsing entities, filtering IPs, and posting attacker data back into Sentinel incident comments.<br/>
+    Built a custom <strong>Sentinel Workbook Dashboard</strong> visualizing attacker telemetry from the honeypot, highlighting brute-force attempts, repeated IPs, and attack timelines.<br/>
+    📄 <a href="https://github.com/omaral-fayyadh/Cowrie-Microsoft-Sentinel-SOAR-Honeypot" target="_blank">View the project</a>
+  </li>  
 
 <li>
     <strong>Building a Cowrie Honeypot with Splunk SIEM Integration</strong><br/>
