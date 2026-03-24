@@ -1,120 +1,195 @@
- <h1>Hi, I'm Omar!<br/>
-  <span style="color: #1a73e8;"> A Cybersecurity Professional</span>,
-  <span style="color: #1a73e8;">and Language Enthusiast</span> (English • العربية • 日本語)
-</h1>
+![HydraSec Banner](https://raw.githubusercontent.com/omaral-fayyadh/Omar-Cyber-Profile/main/assets/img/banner.png)
 
+<div align="center">
 
-<p>
-  I’m a cybersecurity professional with a background in telecom engineering, a passion for cloud security, and a love for languages. I hold a Master’s in Information Assurance & Cybersecurity (4.0 GPA) and actively pursue certifications like CCSK, AZ-900, and AZ-500. Whether deploying honeypots, analyzing security events, or participating in CTF challenges, I’m committed to hands-on learning and continuous growth.
-</p>
+# عمر الفياض | Omar Al-Fayyadh
 
-  
+### Cybersecurity Professional · AI Security Founder · Telecom Engineer
 
-  <h2>👨‍💻 Cybersecurity Projects</h2>
-  <ul>
-   
-<li>
-    <strong>Cowrie Honeypot → Microsoft Sentinel SOAR Automation (End-to-End)</strong><br/>
-    Designed and deployed an <strong>end-to-end cloud security automation pipeline</strong> that integrates a <strong>Cowrie honeypot</strong> hosted on Azure with <strong>Microsoft Sentinel</strong> via <strong>Azure Monitor Agent (AMA)</strong> and <strong>Data Collection Rules (DCR)</strong>.  
-    Implemented a <strong>Logic App SOAR playbook</strong> to automatically enrich incidents by parsing entities, filtering IPs, and posting attacker data back into Sentinel incident comments.<br/>
-    Built a custom <strong>Sentinel Workbook Dashboard</strong> visualizing attacker telemetry from the honeypot, highlighting brute-force attempts, repeated IPs, and attack timelines.<br/>
-    📄 <a href="https://github.com/omaral-fayyadh/Cowrie-Microsoft-Sentinel-SOAR-Honeypot" target="_blank">View the project</a>
-  </li>  
-<br>
-</br>
-<li>
-    <strong>Building a Cowrie Honeypot with Splunk SIEM Integration</strong><br/>
-    Developed a <strong>Cowrie SSH/Telnet honeypot</strong> on a Linux server hosted in <strong>Microsoft Azure</strong> to capture and analyze brute-force and credential-based attacks.  
-    Configured <strong>Splunk Universal Forwarder</strong> to collect Cowrie logs and visualize attacker behavior in a custom-built dashboard.<br/>
-    The dashboard tracks <em>top attacker IPs, commands executed, login attempts, and session durations</em> — offering actionable insights into malicious activity patterns.<br/>
-    📄 <a href="https://github.com/omaral-fayyadh/Cowrie-Splunk-Honeypot" target="_blank">View the project</a> 
-      </li>
-<br>
-</br>
-  <li>
-    <strong>Deploying a T-Pot Honeypot on Microsoft Azure</strong><br/>
-    Deployed the open-source <a href="https://github.com/telekom-security/tpotce" target="_blank">T-Pot honeypot framework</a> in a cloud environment to simulate real-world attack surfaces.  
-    This project enabled the collection and analysis of threat intelligence by capturing live attacker traffic across multiple honeypot sensors.<br/>
-    🎥 <a href="https://youtu.be/d71xenzgNo0" target="_blank">View project walkthrough</a>
-  </li>
+*"I don't waste time. Not even the worst of it."*
 
-  </ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Al--Fayyadh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omaralfayyadh/)
+[![Website](https://img.shields.io/badge/Website-tdsllc.info-00C896?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tdsllc.info)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@omaral-fayyadh4307)
+[![Email](https://img.shields.io/badge/Email-info@tdsllc.info-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tdsllc.info)
 
-  <h2>👨‍💻 Certifications</h2>
+</div>
 
-  <h3 class="cert-title">
-    <img src="https://raw.githubusercontent.com/omaral-fayyadh/Omar-Cyber-Profile/main/assets/img/certificate-of-cloud-security-knowledge-v-5.png" alt="CCSK Badge" width="50"/>
-    <span>Certificate of Cloud Security Knowledge (CCSK)</span>
-  </h3>
-  <p>
-    I pursued the <strong>CCSK</strong> to solidify my expertise in cloud security principles, including data protection, identity management, and risk assessment across cloud service models. This certification deepened my understanding of the <em>shared responsibility model</em> and frameworks such as the <strong>Cloud Controls Matrix (CCM)</strong> and <strong>ENISA</strong> guidelines.
-  </p>
-  <p>
-    ✅ <a href="https://www.credly.com/badges/9f56e3cc-c396-4e90-872a-8bc2228634d8" target="_blank">Check my badge</a>
-  </p>
+---
 
-  <h3 class="cert-title">
-    <img src="https://raw.githubusercontent.com/omaral-fayyadh/Omar-Cyber-Profile/main/assets/img/AZ-900%20BADGE.jpg" alt="AZ-900 Badge" width="50"/>
-    <span>Microsoft Certified: Azure Fundamentals (AZ-900)</span>
-  </h3>
-  <p>
-    I pursued the <strong>AZ-900</strong> to gain foundational knowledge of Microsoft Azure, including core services, cloud concepts, governance, and security. It strengthened my understanding of scalability, pricing models, and compliance tools such as Azure Security Center and Azure Policy.
-  </p>
-  <p>
-    ✅ <a href="https://learn.microsoft.com/en-us/users/omaralfayyadh-0997/transcript/7k13gs19el4jw8j" target="_blank">View my transcript</a>
-  </p>
+## 🐍 HydraSec — AI Threat Intelligence Platform
 
-  <h3 class="cert-title">
-    <img src="https://raw.githubusercontent.com/omaral-fayyadh/Omar-Cyber-Profile/main/assets/img/az-500-training-azure.webp" alt="AZ-500 Badge" width="50"/>
-    <span>Microsoft Certified: Azure Security Engineer Associate (AZ-500)</span>
-  </h3>
-  <p>
-    I’m currently preparing for the <strong>AZ-500</strong> to advance my skills in securing Azure workloads, managing identity and access, and implementing threat protection and incident response strategies.
-  </p>
-  <p>
-    📘 Currently studying: Azure Defender, Microsoft Sentinel, RBAC, Conditional Access, and secure cloud architectures.
-  </p>
+> *The project that started with a concept and became a working prototype in a single session.*
 
-  <h2>🎓 Education</h2>
-  <p>
-    <img src="https://raw.githubusercontent.com/omaral-fayyadh/Omar-Cyber-Profile/main/assets/img/DU%20LOGO.webp" alt="Davenport University Logo" width="200"/>
-  </p>
-  <p>
-    Earned a <strong>Master of Science in Information Assurance and Cybersecurity</strong> from <strong>Davenport University</strong>, graduating with <em>distinction</em> and a <strong>4.0 GPA</strong>. My thesis focused on <strong>implementing Multi-Factor Authentication (MFA) for Augmented and Virtual Reality platforms</strong>. I was also inducted into the <strong>National Society of Leadership and Success (NSLS)</strong> in recognition of academic excellence.
-  </p>
+**HydraSec** is a multi-head AI threat intelligence platform I conceived, architected, and built. Instead of one model making one decision, four specialized AI heads analyze every security event simultaneously — then an Arbiter synthesizes them into a single explainable verdict.
 
-<p>
-  In recognition of my academic performance and leadership potential, I was inducted into the <strong>National Society of Leadership and Success (NSLS)</strong>.
-</p>
-  
-  <p>
-    <img src="https://raw.githubusercontent.com/omaral-fayyadh/Omar-Cyber-Profile/main/assets/img/NSLS%20LOGO.png" alt="NSLS Logo" width="150"/>
-  </p>
+```
+┌─────────────────────────────────────────────────────────────┐
+│                     HYDRASEC ARCHITECTURE                   │
+├──────────┬──────────┬──────────────┬────────────────────────┤
+│   STAT   │   NRAL   │     GEN      │         WSDO           │
+│Statistical│ Neural  │  Generative  │        Wisdom          │
+│ Anomaly  │Behavioral│  Adversarial │    LLM Reasoning       │
+│Detection │Intelligence│ Simulation │      Analyst           │
+└────┬─────┴────┬─────┴──────┬───────┴──────────┬────────────┘
+     │          │             │                  │
+     └──────────┴──────┬──────┴──────────────────┘
+                       │
+              ┌────────▼────────┐
+              │    ARBITER      │
+              │ Consensus Engine│
+              │ Confidence Vote │
+              └────────┬────────┘
+                       │
+              ┌────────▼────────┐
+              │  FINAL VERDICT  │
+              │ CRITICAL / HIGH │
+              │  MEDIUM / LOW   │
+              └─────────────────┘
+```
 
-  
-  <h2>🌏 Japanese Language in Action</h2>
-<p>
-  As a language enthusiast, I’ve studied Japanese and had the honor of delivering a speech in Japanese at the University of Jordan in front of the Japanese Ambassador. This experience reflects my interest in cross-cultural communication and public speaking in formal settings.
-</p>
-<p>
-  🎥 <a href="https://www.youtube.com/watch?v=DakeCiT-wnk" target="_blank"><strong>Watch the video on YouTube</strong></a>
-</p>
-<p>
-  🇯🇵 <em>この動画は、ヨルダン大学で開催された日本語イベントでのスピーチの様子です。日本大使の前で話す機会をいただき、大変光栄でした。</em>
-</p>
+**Stack:** `FastAPI` `React` `SQLite` `Anthropic Claude API` `JWT Auth` `Python 3.13`
 
-<h2>🌍 Languages</h2>
-<ul class="language-list">
-  <li><strong>English</strong> – Fluent</li>
-  <li><strong>Arabic</strong> – Native</li>
-  <li><strong>Japanese</strong> – Conversational</li>
-</ul>
+**Features:**
+- 4 AI detection heads running in parallel
+- Confidence-weighted Arbiter consensus engine  
+- JWT authentication with user accounts
+- Threat history database with severity filtering
+- File ingestion: CSV, PCAP, LOG formats
+- Full REST API with auto-generated docs
 
+> *"Sentinel tells you something happened. HydraSec tells you what it means."*
 
-<h2>📳 Connect with Me</h2>
-  <p>
-    <a href="https://linkedin.com/in/omaralfayyadh/" target="_blank">LinkedIn</a> |
-    <a href="https://www.youtube.com/@omaral-fayyadh4307" target="_blank">YouTube</a> 
-    
-  </p>
+---
 
+## 👨‍💻 Security Projects
+
+### 🔴 Cowrie Honeypot → Microsoft Sentinel → SOAR Pipeline
+**`Azure` `Microsoft Sentinel` `Logic Apps` `KQL` `AMA` `DCR`**
+
+Designed and deployed an end-to-end cloud security automation pipeline integrating a Cowrie honeypot with Microsoft Sentinel.
+
+- Ingested attacker logs via **Azure Monitor Agent (AMA)** and **Data Collection Rules (DCR)** into custom Sentinel tables
+- Engineered a **Logic Apps SOAR playbook** to auto-enrich incidents — parsed entities, filtered IPs via threat intel, posted attacker metadata back into Sentinel incident comments
+- **Reduced manual triage time by ~90%** in simulated SOC environment
+- Built custom **Sentinel Workbook Dashboard** visualizing brute-force trends, attacker IP patterns, and attack timelines
+
+📄 [View Project →](https://github.com/omaral-fayyadh/Cowrie-Microsoft-Sentinel-SOAR-Honeypot)
+
+---
+
+### 🟠 Splunk SIEM Detection Engineering Lab
+**`Azure` `Splunk Enterprise` `SPL` `MITRE ATT&CK` `Universal Forwarder`**
+
+Built a full Splunk detection engineering environment from scratch on Azure.
+
+- Deployed **Splunk Enterprise** and ingested honeypot + Linux system logs using Universal Forwarder with custom parsing
+- Developed **SPL-based detection rules** for brute-force attempts, privilege escalation, and anomalous authentication
+- Mapped attacker TTPs to **MITRE ATT&CK** framework for structured threat correlation
+- **Improved detection accuracy by ~30%** through iterative rule tuning
+
+📄 [View Project →](https://github.com/omaral-fayyadh/Cowrie-Splunk-Honeypot)
+
+---
+
+### 🟡 Multi-Honeypot Threat Telemetry Environment
+**`Azure` `T-Pot` `Elastic` `Splunk` `Microsoft Sentinel`**
+
+Deployed and hardened T-Pot honeypot suite on Azure to simulate enterprise attack surfaces across multiple protocols simultaneously.
+
+- Correlated multi-protocol attacker activity across **Elastic, Splunk, and Sentinel** platforms
+- Refined detection rules based on real-world live attacker behavior patterns
+- Collected and analyzed threat intelligence from active internet-facing honeypots
+
+🎥 [Watch Walkthrough →](https://youtu.be/d71xenzgNo0)
+
+---
+
+## 🛡️ Certifications
+
+<div align="center">
+
+| Certification | Issuer | Status | Link |
+|---|---|---|---|
+| **CCSK** — Certificate of Cloud Security Knowledge | Cloud Security Alliance | ✅ Certified 2025 | [View Badge](https://www.credly.com/badges/9f56e3cc-c396-4e90-872a-8bc2228634d8) |
+| **AZ-900** — Azure Fundamentals | Microsoft | ✅ Certified 2025 | [View Transcript](https://learn.microsoft.com/en-us/users/omaralfayyadh-0997/transcript/7k13gs19el4jw8j) |
+| **Security+** | CompTIA | 📅 Scheduled 2026 | — |
+| **AZ-500** — Azure Security Engineer | Microsoft | 📘 In Progress | — |
+
+</div>
+
+---
+
+## 🎓 Education
+
+### 🏛️ Master of Science — Information Assurance & Cybersecurity
+**Davenport University** · *2025*
+
+- **4.0 GPA** · Graduated with Distinction
+- Thesis: *Implementing Multi-Factor Authentication for Augmented and Virtual Reality Platforms*
+- Inducted into the **National Society of Leadership and Success (NSLS)**
+- Completed while simultaneously running a business and raising a family
+
+### 🏛️ Bachelor of Science — Civil Engineering  
+**Al-Mustansiriyah University** · *Baghdad, Iraq · 2009*
+
+- Founded and operated a **telecommunications ISP during studies** that grew to serve nearly **60% of the country**
+
+---
+
+## 💼 Professional Experience
+
+```
+2026 — Present    Founder & Product Architect · HydraSec
+2016 — 2024       Founder & Principal Engineer · Telecom Design Solutions, LLC
+2024 — 2025       NOC Technician · Comcast Business
+2021 — 2024       OSP Engineer II · Verizon
+2013 — 2016       OSP Engineer · Rainbow Design Services
+```
+
+**Clients served:** Verizon · Spectrum · Comcast · Municipalities across the US
+
+---
+
+## 🛠️ Technical Skills
+
+```python
+SIEM_SOAR     = ["Microsoft Sentinel", "Splunk", "KQL", "SPL", "Azure Logic Apps"]
+CLOUD         = ["Microsoft Azure", "Azure Defender", "NSGs", "Entra ID", "AMA", "DCR"]
+SECURITY_OPS  = ["Alert Triage", "Incident Response", "Threat Hunting", "Honeypots", "MITRE ATT&CK"]
+NETWORKING    = ["TCP/IP", "DNS", "VLANs", "Cisco", "FortiGate", "Zabbix"]
+DEV_STACK     = ["Python", "FastAPI", "React", "SQLite", "JWT", "REST APIs"]
+LANGUAGES     = ["English (Fluent)", "Arabic (Native)", "Japanese (Self-taught)"]
+```
+
+---
+
+## 🌏 Japanese Language in Action
+
+I taught myself Japanese **from books** — three scripts, thousands of characters, no classes, no teacher.
+
+In 2011, I delivered a speech **in Japanese in front of the Japanese Ambassador** at the University of Jordan. I also collaborated with **JICA (Japan International Cooperation Agency)** to establish the first formal educational exchange program between Iraq and Japan.
+
+🎥 [**Watch the Ambassador Speech →**](https://www.youtube.com/watch?v=DakeCiT-wnk)
+
+> 🇯🇵 *この動画は、ヨルダン大学で開催された日本語イベントでのスピーチの様子です。日本大使の前で話す機会をいただき、大変光栄でした。*
+
+---
+
+## 🌍 The Story Behind the Profile
+
+I built a telecom network covering 60% of Iraq as a student. Survived a religious war. Spent a year in hiding — and taught myself Japanese from books during that time. Immigrated to the United States with nothing. Built a telecom engineering company from zero. Earned a 4.0 GPA while running a business and raising a family. Worked in a NOC to understand security from the inside. And then built HydraSec.
+
+I don't have a conventional path. I have a relentless one.
+
+---
+
+<div align="center">
+
+**Omar Al-Fayyadh**  
+Founder · Telecom Design Solutions, LLC · HydraSec  
+📧 info@tdsllc.info · 📞 (331) 333-9484 · 📍 Naperville, IL
+
+*Building at the intersection of infrastructure engineering and AI security.*
+
+</div>
