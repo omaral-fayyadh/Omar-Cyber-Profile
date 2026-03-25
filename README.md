@@ -1,5 +1,3 @@
-![HydraSec Banner](https://raw.githubusercontent.com/omaral-fayyadh/Omar-Cyber-Profile/main/assets/img/banner.png)
-
 <div align="center">
 
 # عمر الفياض | Omar Al-Fayyadh
