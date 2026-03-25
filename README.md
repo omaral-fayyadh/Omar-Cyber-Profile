@@ -1,4 +1,4 @@
-![HydraSec Banner](https://raw.githubusercontent.com/omaral-fayyadh/Omar-Cyber-Profile/main/assets/img/banner.png)
+![HydraSec Banner](https://raw.githubusercontent.com/omaral-fayyadh/Omar-Cyber-Profile/main/assets/img/hydrasec_github_banner.html)
 
 <div align="center">
 
